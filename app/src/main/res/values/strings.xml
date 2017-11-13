@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Hamro Restaurant</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_info">INFO</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_menu">MENU</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_review">REVIEWS</string>
+
+    <string name="google_maps_key">AIzaSyAS2E6N6_e009ypkJ9O1rY0_BRf2VCzlAs</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--menu items-->
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="communicate">Communicate</string>
+    <string name="help">Help</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="signin">Login/Register</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="logout_label">Log Out</string>
+    <string name="FACEBOOK_APP_ID">1691237957575414</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ff4d17be36b63863c55ca0642a16bb62</string>
+    <string name="ak_login_protocol_scheme">AK1691237957575414</string>
+    <string name="fb_login_protocol_scheme">fb1691237957575414</string>
+    <string name="name_label">Name</string>
+
+    <!-- Label for overflow menu option that inserts fake restaurant data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+
+    <!-- Label for overflow menu option that deletes all restaurant data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Restaurants</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a restaurant [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a restaurant</string>
+
+
+    <!-- Title for the activity to add a new restaurant [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_restaurant">Add a Restaurant</string>
+
+    <!-- Title for the activity to edit an existing restaurant [CHAR LIMIT=20] -->
+    +
+    <string name="editor_activity_title_edit_restaurant">Edit Restaurant</string>
+
+    <!-- Label for editor menu option to save restaurant and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current restaurant [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast message in editor when new restaurant has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_restaurant_successful">Restaurant saved</string>
+
+    <!-- Toast message in editor when new restaurant has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_restaurant_failed">Error with saving restaurant</string>
+</resources>
